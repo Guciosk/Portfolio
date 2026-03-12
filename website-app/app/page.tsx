@@ -497,7 +497,7 @@ export default function Home() {
             >
               <div className="relative h-64 md:h-96 rounded-lg overflow-hidden shadow-lg">
                 <Image
-                  src="/workspaces/Portfolio/Queens-College-Campus-Manhattan-Skyline.jpg"
+                  src="/education/Queens-College-Campus-Manhattan-Skyline.jpg"
                   alt="University Campus"
                   fill
                   className="object-cover"
@@ -505,7 +505,7 @@ export default function Home() {
               </div>
               <div className="relative h-64 md:h-96 rounded-lg overflow-hidden shadow-lg">
                 <Image
-                  src="/education/queens-college-image.jpg"
+                  src="/education/Queens-college-image.jpg"
                   alt="University Campus View"
                   fill
                   className="object-cover"
