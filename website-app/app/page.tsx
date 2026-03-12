@@ -496,7 +496,7 @@ export default function Home() {
             >
               <div className="relative h-64 md:h-96 rounded-lg overflow-hidden shadow-lg">
                 <Image
-                  src="/education/queens-college-campus-manhattan-skyline.jpg"
+                  src="/workspaces/Portfolio/Queens-College-Campus-Manhattan-Skyline.jpg"
                   alt="University Campus"
                   fill
                   className="object-cover"
