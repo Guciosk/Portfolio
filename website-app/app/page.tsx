@@ -402,7 +402,7 @@ export default function Home() {
               {
                 title: "Portfolio Website",
                 description: "A responsive portfolio website showcasing projects and skills with an emphasis on organization and ease of use.",
-                image: "/projects/portfolio-website.jpg",
+                image: "/projects/Portfolio-website.jpg",
                 tech: ["Next.js", "Framer Motion", "Tailwind CSS", "Cursor", "Vercel"],
                 demoLink: "#",
                 githubLink: "https://github.com/Guciosk/Personal-Portfolio"
